@@ -1,0 +1,20 @@
+* {
+  margin-top: 0;
+
+}
+
+.titulo {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: yellow;
+  text-align: center;
+  color: green
+}
+
+.uno {
+  font-style: italic;
+
+}
+
+.titulo-ejercicios {
+  text-align: center;
+}
